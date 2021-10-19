@@ -12,5 +12,5 @@ Task4 -[International space station position logger](HW4/EN_ISS_location_logger.
 Task5 -[Basic Flask, SQLAlchemy, WTForms](HW5/flask.md)-----[Sol-5](HW5/HW5_files/HW5.ipynb)     
 Task6 -[NumPy and Matplotlib](HW6/EN_numpy_state_space_model.ipynb)-----[Sol-6](HW6/HW6.ipynb)   
 Task7 -[Pandas and plotly](HW7/EN_pandas_covid.ipynb)-----[Sol-7](HW7/HW7.ipynb)   
-Task8 -[Multithreading](HW8/EN_threading.ipynb)-----[Sol-8](HW8/HW8.ipynb)   
-Task9 -[Optimisation](HW9/EN_cvxpy_factory.ipynb)-----[Sol-9](HW9/HW9.ipynb)    
+Task8 -[Multithreading](HW8/EN_threading.ipynb)-----[Sol-8](HW8/HW8.py)   
+Task9 -[Optimisation](HW9/EN_cvxpy_factory.ipynb)-----[Sol-9](HW9/HW9.py)    
